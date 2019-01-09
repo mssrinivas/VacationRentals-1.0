@@ -124,8 +124,8 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
 ## Front End 
 ## Install
 
-    $ git clone https://github.com/Anuragis/CMPE273-68.git
-    $ cd CMPE273-68/Lab3-013726401/FrontEnd
+    $ git clone https://github.com/mssrinivas/VacationRentals-1.0.git
+    $ cd VacationRentals-1.0/HomeAway/FrontEnd
     $ npm install
 
 ## Start & watch
@@ -136,8 +136,8 @@ Also, be sure to have `git` available in your PATH, `npm` might need it.
 ## Back End 
 ## Install
 
-    $ git clone https://github.com/Anuragis/CMPE273-68.git
-    $ cd CMPE273-68/Lab3-013726401/BackEnd
+    $ git clone https://github.com/mssrinivas/VacationRentals-1.0.git
+    $ cd VacationRentals-1.0/HomeAway/BackEnd
     $ npm install
 
 ## Start & watch
