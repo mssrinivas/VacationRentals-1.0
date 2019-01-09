@@ -1,4 +1,6 @@
-# HomeAway Prototype (www.homeaway.com)
+# Vacation Rentals (HomeAway) Prototype 
+
+This project is a clone of HomeAway (www.homeaway.com). Developed purely for <b>learning</b> purposes.
 
  
 # Technologies Used:
