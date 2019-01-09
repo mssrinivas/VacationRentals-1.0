@@ -3,14 +3,15 @@
 This project is a clone of HomeAway (www.homeaway.com). Developed purely for <b>learning</b> purposes.
 
  
-# Technologies Used:
+## Technologies Used:
   * Front End : ReactJS, HTML, CSS, Bootstrap 
   * Back End  : NodeJS, ExpressJS
   * Database  : MySQL
  
 
-# Functionality 
-User (Traveler mode)
+## Functionality 
+
+### User (Traveler mode)
   * Login
   * Signup
   * Search for a place
@@ -18,7 +19,7 @@ User (Traveler mode)
   * View Profile and Update
   * View Past bookings
   
-User (Owner mode)
+### User (Owner mode)
   * Add a new property to make it available for booking based on
     * Location
     * Property Details
@@ -32,7 +33,7 @@ User (Owner mode)
 
 ## Screenshots
 
-# Traveler Profile
+## Traveler Module
 
 Starter Page
 
@@ -54,15 +55,37 @@ Trips Board
 
 ![Alt text](HomeAway/ScreenShots/TripsBoard.png?raw=true "TripsBoard")
 
-# Owner Profile
+## Owner Module
 
-Owner Home Page
+### Owner Home Page
 
 ![Alt text](HomeAway/ScreenShots/OwnerHome.png?raw=true "Owner Home Page")
 
-Owner Postings Page
+### Owner Postings Page
 
 ![Alt text](HomeAway/ScreenShots/OwnerPostings.png?raw=true "Owner Postings Page")
+
+### Add Property Page
+
+![Alt text](HomeAway/ScreenShots/Add_Property.png?raw=true "Property Postings Page")
+
+![Alt text](HomeAway/ScreenShots/Add_Property_1.png?raw=true "Property Postings Page")
+
+![Alt text](HomeAway/ScreenShots/Add_Property_2.png?raw=true "Property Postings Page")
+
+![Alt text](HomeAway/ScreenShots/Add_Property_3.png?raw=true "Property Postings Page")
+
+![Alt text](HomeAway/ScreenShots/Add_Property_4.png?raw=true "Property Postings Page")
+
+![Alt text](HomeAway/ScreenShots/Add_Property_5.png?raw=true "Property Postings Page")
+
+![Alt text](HomeAway/ScreenShots/Add_Propery_6.png?raw=true "Property Postings Page")
+
+
+### User Profile
+
+![Alt text](HomeAway/ScreenShots/User_Profile.png?raw=true "User Profile Page")
+
 
 
 ## Installation and Execution:
