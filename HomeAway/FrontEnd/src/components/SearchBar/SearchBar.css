@@ -1,0 +1,43 @@
+.container {
+	padding-top: 500px;
+	justify-content: center;
+	text-align: center;	
+	align-content: center;
+}
+
+.centery {
+  /*position: fixed; /* or absolute */
+  top:15%;
+  padding-left: 15%;
+}
+
+.form-controly
+{
+	width: 100px;
+}
+
+.DatePicker
+{
+	width: 1000px;
+}
+
+.roundy
+{
+border-radius: 50px;
+}
+
+.smally
+{
+	width: 0px;
+}
+
+.reduce
+{
+	width: 100px !important;
+}
+
+.errorcenter
+{
+	padding-top: 20%;
+	padding-left: 35%;
+}
