@@ -1,4 +1,6 @@
-# HomeAway Prototype (www.homeaway.com)
+# Vacation Rentals (HomeAway) Prototype 
+
+This project is a clone of HomeAway (www.homeaway.com). Developed purely for <b>learning</b> purposes.
 
  
 # Technologies Used:
@@ -34,30 +36,30 @@ User (Owner mode)
 
 Starter Page
 
-![Alt text](ScreenShots/StarterPage.png?raw=true "Starter Page")
+![Alt text](HomeAway/ScreenShots/StarterPage.png?raw=true "Starter Page")
 
 Landing Page
 
-![Alt text](ScreenShots/LandingPage.png?raw=true "Landing Page")
+![Alt text](HomeAway/ScreenShots/LandingPage.png?raw=true "Landing Page")
 
 Search Places
 
-![Alt text](ScreenShots/SearchPlaces.png?raw=true "Search Places")
+![Alt text](HomeAway/ScreenShots/SearchPlaces.png?raw=true "Search Places")
 
 Places Description
 
-![Alt text](ScreenShots/PlacesDescription.png?raw=true "Places Description")
+![Alt text](HomeAway/ScreenShots/PlacesDescription.png?raw=true "Places Description")
 
 Trips Board
 
-![Alt text](ScreenShots/TripsBoard.png?raw=true "TripsBoard")
+![Alt text](HomeAway/ScreenShots/TripsBoard.png?raw=true "TripsBoard")
 
 # Owner Profile
 
 Owner Home Page
 
-![Alt text](ScreenShots/OwnerHome.png?raw=true "Owner Home Page")
+![Alt text](HomeAway/ScreenShots/OwnerHome.png?raw=true "Owner Home Page")
 
 Owner Postings Page
 
-![Alt text](ScreenShots/OwnerPostings.png?raw=true "Owner Postings Page")
+![Alt text](HomeAway/ScreenShots/OwnerPostings.png?raw=true "Owner Postings Page")
