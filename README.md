@@ -29,7 +29,12 @@ This project is a clone of HomeAway (www.homeaway.com). Developed purely for <b>
   * View Profile and Update
   * Search for his properties
   * View Past bookings
-  
+
+## Basic Architecture Diagram
+
+
+![Alt text](HomeAway/ScreenShots/HomeAway_V1_Architecture.png?raw=true "Architecture")
+
 
 ## Screenshots
 
