@@ -63,3 +63,62 @@ Owner Home Page
 Owner Postings Page
 
 ![Alt text](HomeAway/ScreenShots/OwnerPostings.png?raw=true "Owner Postings Page")
+
+
+## Installation and Execution:
+
+## Requirements
+
+For development, you will only need Node.js installed on your environement.
+And please use the appropriate [Editorconfig](http://editorconfig.org/) plugin for your Editor (not mandatory).
+
+### Node
+
+[Node](http://nodejs.org/) is really easy to install & now include [NPM](https://npmjs.org/).
+You should be able to run the following command after the installation procedure
+below.
+
+    $ node --version
+    v0.10.24
+
+    $ npm --version
+    1.3.21
+
+#### Node installation on Linux
+
+    sudo apt-get install python-software-properties
+    sudo add-apt-repository ppa:chris-lea/node.js
+    sudo apt-get update
+    sudo apt-get install nodejs
+
+#### Node installation on Windows
+
+Just go on [official Node.js website](http://nodejs.org/) & grab the installer.
+Also, be sure to have `git` available in your PATH, `npm` might need it.
+
+---
+
+## Front End 
+## Install
+
+    $ git clone https://github.com/Anuragis/CMPE273-68.git
+    $ cd CMPE273-68/Lab3-013726401/FrontEnd
+    $ npm install
+
+## Start & watch
+
+    $ npm start
+
+    
+## Back End 
+## Install
+
+    $ git clone https://github.com/Anuragis/CMPE273-68.git
+    $ cd CMPE273-68/Lab3-013726401/BackEnd
+    $ npm install
+
+## Start & watch
+
+    $ npm start
+
+
